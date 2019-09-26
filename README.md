@@ -2,9 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Preview:
 
-<img width="1279" alt="Screenshot 2019-09-23 at 2 47 37 PM" src="https://user-images.githubusercontent.com/41126087/65426784-36fef680-de11-11e9-936b-37b28203f0c2.png">
+<img width="1279" alt="Screenshot 2019-09-26 at 6 30 59 PM" src="https://user-images.githubusercontent.com/41126087/65707221-5eadc300-e08c-11e9-95fa-bf0ffaa886bb.png">
 
-<img width="1280" alt="Screenshot 2019-09-23 at 2 46 50 PM" src="https://user-images.githubusercontent.com/41126087/65426797-3e260480-de11-11e9-97b1-aea72faf2da4.png">
+<img width="1263" alt="Screenshot 2019-09-26 at 6 31 50 PM" src="https://user-images.githubusercontent.com/41126087/65707229-61a8b380-e08c-11e9-8269-e7692c1a04b5.png">
+
 
 ### `npm start`
 
